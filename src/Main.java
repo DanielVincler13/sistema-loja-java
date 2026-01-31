@@ -22,6 +22,7 @@ public class Main {
         System.out.println("  historico  - Mostra todas as vendas");
         System.out.println("  apagar     - Desfaz a última venda");
         System.out.println("  caixa      - Mostra o total em caixa");
+        System.out.println("  relatorio      - Mostra relatorio de vendas");
         System.out.println("  ajuda      - Mostra o menu");
         System.out.println("  sair       - Encerra o sistema");
     }
@@ -252,3 +253,4 @@ public class Main {
         }
     }
 }
+
