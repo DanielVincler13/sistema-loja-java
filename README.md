@@ -1,3 +1,5 @@
+> Projeto acadêmico/pessoal em Java focado em estruturas de dados, arquitetura em camadas e controle transacional (undo/Stack).
+
 # Sistema de Loja em Java
 
 ## Descrição
@@ -21,3 +23,4 @@ Inclui histórico de vendas e desfazer última operação usando Stack (LIFO).
 ```bash
 javac src/*.java
 java src.Main
+
